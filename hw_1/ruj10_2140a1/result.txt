@@ -1,0 +1,38 @@
+finish 30000 docs
+finish 60000 docs
+finish 90000 docs
+finish 120000 docs
+finish 150000 docs
+finish 180000 docs
+totaly document count:  198361
+index web corpus running time: 0.7936333333333333 min
+ >> the token "acow" appeared in 3 documents and 3 times in total
+       lists-092-4113429    154963         1
+       lists-092-4273864    154964         1
+      lists-108-11508515    186006         1
+load index & retrieve running time: 0.05321666666666667 min
+finish 30000 docs
+finish 60000 docs
+finish 90000 docs
+finish 120000 docs
+finish 150000 docs
+finish 180000 docs
+finish 210000 docs
+finish 240000 docs
+finish 270000 docs
+finish 300000 docs
+finish 330000 docs
+finish 360000 docs
+finish 390000 docs
+finish 420000 docs
+finish 450000 docs
+finish 480000 docs
+totaly document count:  503473
+index text corpus running time: 1.6923 min
+ >> the token "yhoo" appeared in 5 documents and 5 times in total
+        NYT19990208.0398    291085         1
+        NYT19990405.0254    313384         1
+        NYT20000717.0202    477373         1
+        NYT20000927.0407    502701         1
+        NYT20000928.0344    503146         1
+load index & retrieve running time: 0.12318333333333334 min

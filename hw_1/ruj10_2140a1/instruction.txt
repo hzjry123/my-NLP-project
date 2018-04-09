@@ -1,0 +1,1 @@
+IDE: IDEAEnvironment configuration: java version 1.8Run: run HW2Main.java main method.Read: fill all method in given class with annotation.
